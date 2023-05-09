@@ -1,0 +1,15 @@
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\bin\Debug\net6.0\Projeto Eniac.exe
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\bin\Debug\net6.0\Projeto Eniac.deps.json
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\bin\Debug\net6.0\Projeto Eniac.runtimeconfig.json
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\bin\Debug\net6.0\Projeto Eniac.dll
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\bin\Debug\net6.0\Projeto Eniac.pdb
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.csproj.AssemblyReference.cache
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.AssemblyInfoInputs.cache
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.AssemblyInfo.cs
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.csproj.CoreCompileInputs.cache
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.dll
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\refint\Projeto Eniac.dll
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.pdb
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\Projeto Eniac.genruntimeconfig.cache
+C:\Users\Kauã Alves\Desktop\Portifolio\Projeto Eniac\Projeto Eniac\Projeto Eniac\obj\Debug\net6.0\ref\Projeto Eniac.dll
